@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @makafsal
 - 👀 I’m interested in design & front-end development...
-- 🌱 I’m currently learning Microsoft Team App Development, Flutter, Electronjs, Node, ExpressJs, ReactNative.
+- 🎯 Experienced React, Angular, SPFx (SharePoint), NodeJS, NestJS, Cassandra, Azure AD, and Keycloak .
+- 📖 Currently learning Computer vision using OpenCV and Python.
 - 💞️ I’m looking to collaborate on web applications and any front-end related projects...
 - 📫 How to reach me makafsal@gmail.com
 
