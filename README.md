@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @makafsal
+- 👋 Hi, I’m Afsal! 😀🤝
 - 👀 I’m a full-stack developer.
-- 🖌️ I've proved my skills in UI Designing as well.
+- 🖌️ Proven skills in UI designing.
 - 🎯 Experienced in React, Angular, SPFx (SharePoint), NestJS, Cassandra, GraphQL, kafka, Azure AD, and Keycloak.
-- 🎨 Proficient in design tools like Figma, Adobe XD, Adobe Photoshop, Illustrator, Inkscape.
-- 📖 Currently learning Computer vision using OpenCV and Python.
-- 💞️ I’m looking to collaborate on any kind of projects as I love to learn new tech 😍.
+- 🎨 Proficient in design tools: Figma, Adobe XD, Adobe Photoshop, Illustrator, and Inkscape.
+- 📖 Passionate about exploring and understanding new technologies 😋.
+- 🎓 Currently pursuing my PG Diploma in Animal Welfare (🐕 🐄 🐔..💓..🦁 🐘 🐁).
+- 💞️ Open to collaboration on any project as I love learning new tech 😍.
 - 📫 How to reach me <a href="mailto:makafsal@gmail.com">makafsal@gmail.com</a>
 
 <!---
